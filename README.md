@@ -44,11 +44,6 @@ The following tools and libraries will be used to process data and build the cla
      - **Precision, Recall, F1-Score, and AUC-ROC Curve**
    - Select the best-performing model based on these metrics.
 
-5. **Project Documentation & Submission**
-   - Upload the project to **GitHub**.
-   - Create a **well-documented README file** detailing the process, findings, and insights.
-   - Include a link to the repository in the final submission.
-
 ## 🔥 Why This Matters?
 An accurate **NEO prediction model** can contribute to planetary defense strategies by helping scientists and space agencies **assess potential threats** and take necessary preventive measures.
 
